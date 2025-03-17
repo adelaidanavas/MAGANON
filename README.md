@@ -10,9 +10,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+- :man: Jorge C. Sam
+- :woman: Adelaida Navas
+- :woman: Manon Navarrete 
 
 
 Proyecto (código): 
@@ -20,8 +20,8 @@ URL (link) del proyecto en Github:
 
 
 Tipo/Género:  
-- [x] FictionCiberpunk  
-- [ ] Reality/tribus urbanas  
+- [ ] FictionCiberpunk  
+- [x] Reality/tribus urbanas  
 - [ ] Comic
 
 
@@ -33,21 +33,25 @@ Tipo/Género:
 
 ![](img-nobody.png)
 
-Nombre: 
+Nombre: Magañón
 
 
 ### Historia
+
+NACIDO EN OKLAHOMA, EEUU, HIJO DE UNA FAMILIA DE CLASE MEDIA TRADICIONAL. SU PADRE FUE MECÁNICO DE CAMIONES Y SU MADRE AMA DE CASA. MAGULLÓN ABANDONÓ LA UNIVERSIDAD TRAS DOS SEMESTRES, CONVENCIDO DE QUE LA EDUCACIÓN ESTÁ CONTROLADA POR LA AGENDA PROGRESISTA. PASA SUS DÍAS EN FOROS Y REDES SOCIALES, DONDE SE AUTOPROCLAMA "DEFENSOR DE LA VERDAD". ACTUALMENTE TRABAJA EN UN TALLER LOCAL, PERO ASEGURA QUE SU VERDADERA MISIÓN ES DESPERTAR A SU PAÍS DEL "ADOCTRINAMIENTO GLOBALISTA".
 
 
 ### TagLine
 
 
 ### Conflicto 
-
+Acabar con la cultura woke.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje: https://excalidraw.com/#room=0e5eba5f70f9fc89dbe7,W3S0U-Uu9rbIJW0ux42CWA
+- 
+- Interactivo: (https://h5p.org/node/1523942) 
 
 
 - Banner/Teaser:  (enlace) 
