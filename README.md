@@ -27,18 +27,20 @@ Tipo/Género:
 
 
 ## Resumen
+Es un personaje parodia del votante promedio de Donald Trump y conservador. Es aplicable a conservadores de todo el mundo que no se dejan influenciar por los medios tradicionales "secuestrados por la ideología woke".
 
 
 ### Personaje
 
-![](img-nobody.png)
+![image](https://github.com/user-attachments/assets/90ef7525-6d3e-423c-a0d2-b9123c05b1eb)
+
 
 Nombre: Magañón
 
 
 ### Historia
 
-NACIDO EN OKLAHOMA, EEUU, HIJO DE UNA FAMILIA DE CLASE MEDIA TRADICIONAL. SU PADRE FUE MECÁNICO DE CAMIONES Y SU MADRE AMA DE CASA. MAGULLÓN ABANDONÓ LA UNIVERSIDAD TRAS DOS SEMESTRES, CONVENCIDO DE QUE LA EDUCACIÓN ESTÁ CONTROLADA POR LA AGENDA PROGRESISTA. PASA SUS DÍAS EN FOROS Y REDES SOCIALES, DONDE SE AUTOPROCLAMA "DEFENSOR DE LA VERDAD". ACTUALMENTE TRABAJA EN UN TALLER LOCAL, PERO ASEGURA QUE SU VERDADERA MISIÓN ES DESPERTAR A SU PAÍS DEL "ADOCTRINAMIENTO GLOBALISTA".
+Nacido en Oklahoma, eeuu, hijo de una familia de clase media tradicional. Su padre fue mecánico de camiones y su madre ama de casa. Magullón abandonó la universidad tras dos semestres, convencido de que la educación está controlada por la agenda progresista. Pasa sus días en foros y redes sociales, donde se autoproclama "defensor de la verdad". Actualmente trabaja en un taller local, pero asegura que su verdadera misión es despertar a su país del "adoctrinamiento globalista".
 
 
 ### TagLine
@@ -64,7 +66,7 @@ Acabar con la cultura woke.
 
 ### Conclusiones/Valoración del equipo
 
-
+Con este proyecto hemos aprendido sobre el uso de plataformas como Github, Excalidraw, h5p y la creación de un personaje parodia.
 
 
 
