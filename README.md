@@ -34,6 +34,9 @@ Es un personaje parodia del votante promedio de Donald Trump y conservador. Es a
 
 ![image](https://github.com/user-attachments/assets/90ef7525-6d3e-423c-a0d2-b9123c05b1eb)
 
+![Captura de pantalla 2025-03-17 113718](https://github.com/user-attachments/assets/24967e0d-90aa-4ab4-bf29-c992aee11ba0)
+
+
 
 Nombre: Magañón
 
