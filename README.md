@@ -59,11 +59,6 @@ Acabar con la cultura woke.
 - Arcweave: [(https://arcweave.com/app/project/YyEyQAbEpA/play?entrypoint=play_btn)](https://arcweave.com/app/project/YyEyQAbEpA)
 - Interactivo: (https://h5p.org/node/1523942)
 - Figma: (https://www.figma.com/design/Xk4r5JFG8UZI3XBiuR3MtB/Maga%C3%B1%C3%B3n-twitter?node-id=1322-257&t=q3DD4MR44ZqKvlZh-0)
-
-
-- Banner/Teaser:  (enlace): https://www.figma.com/design/Xk4r5JFG8UZI3XBiuR3MtB/Maga%C3%B1%C3%B3n-twitter?node-id=4-1224    
-
-
 - Storytelling: (enlace): https://jorge-carlos.itch.io/el-despertar-de-magan 
 
 
